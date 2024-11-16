@@ -11,5 +11,8 @@ Identify, learn, and solve.
 - (EXPLORING NOW --> Networking interface, FPGA, cocoTB + PyUVM, and MORE)
 
 ### Software Skill
-NA 😭😞
+- NA 😭😞
 When can I be smart and hardworking enough to learn software skills, too? Can somebody teach me, especially low-level, high-performance stuff? C++ guys are so cool!
+
+#
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-yet-ng-065485119/)
